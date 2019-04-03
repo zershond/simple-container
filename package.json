@@ -1,0 +1,23 @@
+{
+  "name": "simple-container",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Caleb Z C CHEN",
+  "license": "ISC",
+  "devDependencies": {
+    "kcors": "^2.2.2",
+    "koa": "^2.7.0",
+    "koa-body": "^2.0.0",
+    "koa-compress": "^3.0.0",
+    "koa-mount": "^4.0.0",
+    "koa-router": "^7.0.1",
+    "koa-static": "^3.0.0",
+    "koa-static-folder": "^0.1.6",
+    "request": "^2.88.0"
+  }
+}
