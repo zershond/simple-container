@@ -1,6 +1,6 @@
 const config = {
     ENV: 'Local',
-    PORT: 9527,
+    PORT: 80,
 	Service: 'http://localhost:9527',
 	ServiceRouter: [{
 		context: 'mock-api'
